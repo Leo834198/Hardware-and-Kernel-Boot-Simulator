@@ -1,0 +1,19 @@
+Hardware and Kernel Boot Simulator
+
+hakBS is a series of .exe releases (alongside .bat files) that simulate kernel startup, hardware operations, the Power-On Self-Test (POST), and similar processes.
+
+
+In case you didn't know, you can see how the bootloader loads the kernel, the Power-On Self-Test, hardware operations, and much more.
+
+If you have any questions, leave us a comment.
+
+
+
+
+
+
+
+
+
+
+                                                             Leo834198
